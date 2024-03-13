@@ -2,7 +2,7 @@
  **This Trick is also wrote with html, css, i hope you enjoy it ❤**
 <br></br>
 
-🔗 [Demo Project]
+🔗 [Demo Project](https://moniia.github.io/Trick2-Playing-Card/)
 
 👩🏻‍💻 Developed by Mona Aminian
 
