@@ -1,7 +1,8 @@
 # Trick2-Playing-Card
  **This Trick is also wrote with html, css, i hope you enjoy it ❤**
 <br></br>
-(https://github.com/Moniia/Trick2-Playing-Card/assets/155805252/53064fc7-c14f-4909-b498-5343eb7cfef7)
+
+https://github.com/Moniia/Trick2-Playing-Card/assets/155805252/53064fc7-c14f-4909-b498-5343eb7cfef7
 
 <br></br>
 
