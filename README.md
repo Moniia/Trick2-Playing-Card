@@ -6,7 +6,7 @@
 <br></br>
 
 
-🔗 [Demo Project] (https://moniia.github.io/Trick2-Playing-Card/)
+🔗 [Demo Project](https://moniia.github.io/Trick2-Playing-Card/)
 
 👩🏻‍💻 Developed by Mona Aminian
 
